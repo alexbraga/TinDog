@@ -1,0 +1,196 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.big-heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 14%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.white-section {
+  background-color: white;
+}
+
+/* Title Section */
+
+#title .container-fluid {
+  padding: 3% 15% 12%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  margin-bottom: 4.5rem;
+  padding: 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 20px 5% 0;
+  width: 140px;
+}
+
+/* Title Image */
+
+.title-image {
+  position: absolute;
+  right: 27%;
+  transform: rotate(25deg);
+  width: 60%;
+}
+
+/* Features Section */
+
+#features {
+  line-height: 1.5;
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-col {
+  margin: 30px 0;
+  padding: 0 7%;
+}
+
+.feature-icon {
+  color: #ef8172;
+  margin-bottom: 20px;
+}
+
+.feature-icon:hover {
+  color: #ff4c68;
+}
+
+.description {
+  color: #8f8f8f;
+  margin: 0;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.carousel-item {
+  height: 800px;
+}
+
+.testimonial-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-img {
+  border-radius: 100%;
+  margin: 30px;
+  width: 10%;
+}
+
+/* Press Section */
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  margin: 0 35px 50px;
+  width: 12%;
+}
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px 50px;
+}
+
+.pricing-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-col {
+  margin: 3% auto;
+}
+
+/* Call To Action Section */
+
+/* Footer Section */
+
+#footer {
+  padding: 5% 0 2%;
+}
+
+.social-icon {
+  color: black;
+  margin: 0 10px 20px;
+}
+
+.social-icon:hover {
+  color: #ff4c68;
+  text-decoration: none;
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 992px) and (max-width: 1028px) {
+  .container-fluid {
+    padding: 3% 13% 12%;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(25deg);
+  }
+}
+
+@media (max-width: 992px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
