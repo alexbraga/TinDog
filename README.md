@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://alexbraga.github.io/TinDog/">TinDog</a>
+  <a href="https://alexbraga.github.io/tindog/">TinDog</a>
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/alexbraga/TinDog/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/TinDog"></a>
+  <a href="https://github.com/alexbraga/tindog/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/tindog"></a>
 </p>
 
 <h4 align="center">
@@ -16,7 +16,7 @@
 
 ## About
 
-<p align="justify">TinDog Website project built with Bootstrap and created for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>. Available <a href="https://alexbraga.github.io/TinDog/">here</a>.</p>
+<p align="justify">TinDog Website project built with Bootstrap and created for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>. Available <a href="https://alexbraga.github.io/tindog/">here</a>.</p>
 
 ---
 
